@@ -1,0 +1,762 @@
+{
+  "vaultName": "UNIBS",
+  "lastExport": 1744023532879,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Analisi/Analisi 1/1_Estremi/Maggiorante.md",
+    "Analisi/Analisi 1/1_Estremi/Massimo.md",
+    "Analisi/Analisi 1/1_Estremi/Massimo e Minimo.md",
+    "Analisi/Analisi 1/1_Estremi/Teorema di esistenza dell'estremo superiore.md",
+    "Analisi/Analisi 1/2_Successioni/Limiti/Limite di successione.md",
+    "Analisi/Analisi 1/2_Successioni/Limiti/Teorema dei Carbinieri.md",
+    "Analisi/Analisi 1/2_Successioni/Limiti/Teorema Del Limite del prodotto di una successione limitata per una sua infinitesima.md",
+    "Analisi/Analisi 1/2_Successioni/Limiti/Teorema della permanenza del segno.md",
+    "Analisi/Analisi 1/2_Successioni/Limiti/Teorema ogni successione convergente è limitata.md",
+    "Analisi/Analisi 1/2_Successioni/Limiti/Teorema Unicità Limite.md",
+    "Analisi/Analisi 1/2_Successioni/Successioni Monotone/Criterio del rapporto per le successioni.md",
+    "Analisi/Analisi 1/2_Successioni/Successioni Monotone/Successione Monotona.md",
+    "Analisi/Analisi 1/2_Successioni/Successioni Monotone/Teorema sulle successioni monotone.md",
+    "Analisi/Analisi 1/2_Successioni/Teorema di Bolzano-Weierstrass.md",
+    "Analisi/Analisi 1/3_Funzioni/Funzioni continue/Funzione Continua.md",
+    "Analisi/Analisi 1/3_Funzioni/Funzioni continue/Teorema dell'esistenza degli zeri.md",
+    "Analisi/Analisi 1/3_Funzioni/Funzioni continue/Teorema dell'esistenza dei valori intermedi.md",
+    "Analisi/Analisi 1/3_Funzioni/Funzioni continue/Teorema della permanenza del segno.md",
+    "Analisi/Analisi 1/3_Funzioni/Funzioni continue/Teorema di Weierstrass.md",
+    "Analisi/Analisi 1/3_Funzioni/Limiti di Funzione/Limite di Funzione.md",
+    "Analisi/Analisi 1/3_Funzioni/Limiti di Funzione/Teorema del legame tra limiti di funzione e limiti di successione.md",
+    "Analisi/Analisi 1/3_Funzioni/Funzione.md",
+    "Analisi/Analisi 1/4_Derivata/Criterio di Caratterizzazione delle funzioni costanti in un intervallo.md",
+    "Analisi/Analisi 1/4_Derivata/Criterio di Convessità.md",
+    "Analisi/Analisi 1/4_Derivata/Criterio di Monotonia.md",
+    "Analisi/Analisi 1/4_Derivata/Derivabile.md",
+    "Analisi/Analisi 1/4_Derivata/Teorema dell'Hopital.md",
+    "Analisi/Analisi 1/4_Derivata/Teorema della Derivabilità e continuità.md",
+    "Analisi/Analisi 1/4_Derivata/Teorema derivazione funzioni inverse.md",
+    "Analisi/Analisi 1/4_Derivata/Teorema di derivazione delle funzioni composte.md",
+    "Analisi/Analisi 1/4_Derivata/Teorema di Fermat.md",
+    "Analisi/Analisi 1/4_Derivata/Teorema di Lagrange.md",
+    "Analisi/Analisi 1/4_Derivata/Teorema di Rolle.md",
+    "Analisi/Analisi 1/4_Derivata/Teorema successioni definite per ricorrenza.md",
+    "Analisi/Analisi 1/5_Taylor/Formula.md",
+    "Analisi/Analisi 1/5_Taylor/o-piccolo.md",
+    "Analisi/Analisi 1/5_Taylor/Proprietà o-piccolo.md",
+    "Analisi/Analisi 1/6_Integrali/Addittività dell'integrale rispetto all'Intervallo.md",
+    "Analisi/Analisi 1/6_Integrali/Caratterizzazione primitive di una funzione in un intervallo.md",
+    "Analisi/Analisi 1/6_Integrali/Confronto fra gli integrali.md",
+    "Analisi/Analisi 1/6_Integrali/Formula fondamentale del calcolo integrale.md",
+    "Analisi/Analisi 1/6_Integrali/Funzione integrale.md",
+    "Analisi/Analisi 1/6_Integrali/Integrabilità delle funzioni continue.md",
+    "Analisi/Analisi 1/6_Integrali/Integrale definito.md",
+    "Analisi/Analisi 1/6_Integrali/Linearità dell'integrale.md",
+    "Analisi/Analisi 1/6_Integrali/Primitiva.md",
+    "Analisi/Analisi 1/6_Integrali/Teorema della Media.md",
+    "Analisi/Analisi 1/6_Integrali/Teorema fondamentale del calcolo integrale.md",
+    "Analisi/Analisi 1/7_Serie/Condizione necessaria di Convergenza.md",
+    "Analisi/Analisi 1/7_Serie/Serie.md",
+    "Analisi/Analisi 1/Lista Teoremi.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/media/pasted-image-20250403160516.png",
+    "lib/media/pasted-image-20250403171456.png",
+    "lib/media/pasted-image-20250403171531.png",
+    "lib/media/pasted-image-20250407100703.png"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Analisi/Analisi 1/1_Estremi/Maggiorante.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 313,
+      "exportedPath": "analisi/analisi-1/1_estremi/maggiorante.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/1_Estremi/Massimo.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 0,
+      "exportedPath": "analisi/analisi-1/1_estremi/massimo.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/1_Estremi/Massimo e Minimo.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 407,
+      "exportedPath": "analisi/analisi-1/1_estremi/massimo-e-minimo.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/1_Estremi/Teorema di esistenza dell'estremo superiore.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 536,
+      "exportedPath": "analisi/analisi-1/1_estremi/teorema-di-esistenza-dell'estremo-superiore.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/2_Successioni/Limiti/Limite di successione.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 160,
+      "exportedPath": "analisi/analisi-1/2_successioni/limiti/limite-di-successione.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/2_Successioni/Limiti/Teorema dei Carbinieri.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 570,
+      "exportedPath": "analisi/analisi-1/2_successioni/limiti/teorema-dei-carbinieri.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/2_Successioni/Limiti/Teorema Del Limite del prodotto di una successione limitata per una sua infinitesima.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 361,
+      "exportedPath": "analisi/analisi-1/2_successioni/limiti/teorema-del-limite-del-prodotto-di-una-successione-limitata-per-una-sua-infinitesima.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/2_Successioni/Limiti/Teorema della permanenza del segno.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 614,
+      "exportedPath": "analisi/analisi-1/2_successioni/limiti/teorema-della-permanenza-del-segno.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/2_Successioni/Limiti/Teorema ogni successione convergente è limitata.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 685,
+      "exportedPath": "analisi/analisi-1/2_successioni/limiti/teorema-ogni-successione-convergente-è-limitata.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/2_Successioni/Limiti/Teorema Unicità Limite.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 805,
+      "exportedPath": "analisi/analisi-1/2_successioni/limiti/teorema-unicità-limite.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/2_Successioni/Successioni Monotone/Criterio del rapporto per le successioni.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 305,
+      "exportedPath": "analisi/analisi-1/2_successioni/successioni-monotone/criterio-del-rapporto-per-le-successioni.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/2_Successioni/Successioni Monotone/Successione Monotona.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 500,
+      "exportedPath": "analisi/analisi-1/2_successioni/successioni-monotone/successione-monotona.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/2_Successioni/Successioni Monotone/Teorema sulle successioni monotone.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 1169,
+      "exportedPath": "analisi/analisi-1/2_successioni/successioni-monotone/teorema-sulle-successioni-monotone.html",
+      "dependencies": [
+        "lib/media/pasted-image-20250403160516.png"
+      ]
+    },
+    "Analisi/Analisi 1/2_Successioni/Teorema di Bolzano-Weierstrass.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 96,
+      "exportedPath": "analisi/analisi-1/2_successioni/teorema-di-bolzano-weierstrass.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/3_Funzioni/Funzioni continue/Funzione Continua.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 639,
+      "exportedPath": "analisi/analisi-1/3_funzioni/funzioni-continue/funzione-continua.html",
+      "dependencies": [
+        "lib/media/pasted-image-20250403171456.png",
+        "lib/media/pasted-image-20250403171531.png"
+      ]
+    },
+    "Analisi/Analisi 1/3_Funzioni/Funzioni continue/Teorema dell'esistenza degli zeri.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 965,
+      "exportedPath": "analisi/analisi-1/3_funzioni/funzioni-continue/teorema-dell'esistenza-degli-zeri.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/3_Funzioni/Funzioni continue/Teorema dell'esistenza dei valori intermedi.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 943,
+      "exportedPath": "analisi/analisi-1/3_funzioni/funzioni-continue/teorema-dell'esistenza-dei-valori-intermedi.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/3_Funzioni/Funzioni continue/Teorema della permanenza del segno.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 387,
+      "exportedPath": "analisi/analisi-1/3_funzioni/funzioni-continue/teorema-della-permanenza-del-segno.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/3_Funzioni/Funzioni continue/Teorema di Weierstrass.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 1431,
+      "exportedPath": "analisi/analisi-1/3_funzioni/funzioni-continue/teorema-di-weierstrass.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/3_Funzioni/Limiti di Funzione/Limite di Funzione.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 310,
+      "exportedPath": "analisi/analisi-1/3_funzioni/limiti-di-funzione/limite-di-funzione.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/3_Funzioni/Limiti di Funzione/Teorema del legame tra limiti di funzione e limiti di successione.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 98,
+      "exportedPath": "analisi/analisi-1/3_funzioni/limiti-di-funzione/teorema-del-legame-tra-limiti-di-funzione-e-limiti-di-successione.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/3_Funzioni/Funzione.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 880,
+      "exportedPath": "analisi/analisi-1/3_funzioni/funzione.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/4_Derivata/Criterio di Caratterizzazione delle funzioni costanti in un intervallo.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 515,
+      "exportedPath": "analisi/analisi-1/4_derivata/criterio-di-caratterizzazione-delle-funzioni-costanti-in-un-intervallo.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/4_Derivata/Criterio di Convessità.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 294,
+      "exportedPath": "analisi/analisi-1/4_derivata/criterio-di-convessità.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/4_Derivata/Criterio di Monotonia.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 981,
+      "exportedPath": "analisi/analisi-1/4_derivata/criterio-di-monotonia.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/4_Derivata/Derivabile.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 282,
+      "exportedPath": "analisi/analisi-1/4_derivata/derivabile.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/4_Derivata/Teorema dell'Hopital.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 997,
+      "exportedPath": "analisi/analisi-1/4_derivata/teorema-dell'hopital.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/4_Derivata/Teorema della Derivabilità e continuità.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 515,
+      "exportedPath": "analisi/analisi-1/4_derivata/teorema-della-derivabilità-e-continuità.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/4_Derivata/Teorema derivazione funzioni inverse.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 313,
+      "exportedPath": "analisi/analisi-1/4_derivata/teorema-derivazione-funzioni-inverse.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/4_Derivata/Teorema di derivazione delle funzioni composte.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 848,
+      "exportedPath": "analisi/analisi-1/4_derivata/teorema-di-derivazione-delle-funzioni-composte.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/4_Derivata/Teorema di Fermat.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 1071,
+      "exportedPath": "analisi/analisi-1/4_derivata/teorema-di-fermat.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/4_Derivata/Teorema di Lagrange.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 716,
+      "exportedPath": "analisi/analisi-1/4_derivata/teorema-di-lagrange.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/4_Derivata/Teorema di Rolle.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 860,
+      "exportedPath": "analisi/analisi-1/4_derivata/teorema-di-rolle.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/4_Derivata/Teorema successioni definite per ricorrenza.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 400,
+      "exportedPath": "analisi/analisi-1/4_derivata/teorema-successioni-definite-per-ricorrenza.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/5_Taylor/Formula.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 363,
+      "exportedPath": "analisi/analisi-1/5_taylor/formula.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/5_Taylor/o-piccolo.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 422,
+      "exportedPath": "analisi/analisi-1/5_taylor/o-piccolo.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/5_Taylor/Proprietà o-piccolo.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 995,
+      "exportedPath": "analisi/analisi-1/5_taylor/proprietà-o-piccolo.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/6_Integrali/Addittività dell'integrale rispetto all'Intervallo.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 170,
+      "exportedPath": "analisi/analisi-1/6_integrali/addittività-dell'integrale-rispetto-all'intervallo.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/6_Integrali/Caratterizzazione primitive di una funzione in un intervallo.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 564,
+      "exportedPath": "analisi/analisi-1/6_integrali/caratterizzazione-primitive-di-una-funzione-in-un-intervallo.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/6_Integrali/Confronto fra gli integrali.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 176,
+      "exportedPath": "analisi/analisi-1/6_integrali/confronto-fra-gli-integrali.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/6_Integrali/Formula fondamentale del calcolo integrale.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 658,
+      "exportedPath": "analisi/analisi-1/6_integrali/formula-fondamentale-del-calcolo-integrale.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/6_Integrali/Funzione integrale.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 126,
+      "exportedPath": "analisi/analisi-1/6_integrali/funzione-integrale.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/6_Integrali/Integrabilità delle funzioni continue.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 115,
+      "exportedPath": "analisi/analisi-1/6_integrali/integrabilità-delle-funzioni-continue.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/6_Integrali/Integrale definito.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 264,
+      "exportedPath": "analisi/analisi-1/6_integrali/integrale-definito.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/6_Integrali/Linearità dell'integrale.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 326,
+      "exportedPath": "analisi/analisi-1/6_integrali/linearità-dell'integrale.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/6_Integrali/Primitiva.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 123,
+      "exportedPath": "analisi/analisi-1/6_integrali/primitiva.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/6_Integrali/Teorema della Media.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 1426,
+      "exportedPath": "analisi/analisi-1/6_integrali/teorema-della-media.html",
+      "dependencies": [
+        "lib/media/pasted-image-20250407100703.png"
+      ]
+    },
+    "Analisi/Analisi 1/6_Integrali/Teorema fondamentale del calcolo integrale.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 1397,
+      "exportedPath": "analisi/analisi-1/6_integrali/teorema-fondamentale-del-calcolo-integrale.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/7_Serie/Condizione necessaria di Convergenza.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 491,
+      "exportedPath": "analisi/analisi-1/7_serie/condizione-necessaria-di-convergenza.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/7_Serie/Serie.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 613,
+      "exportedPath": "analisi/analisi-1/7_serie/serie.html",
+      "dependencies": []
+    },
+    "Analisi/Analisi 1/Lista Teoremi.md": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 2897,
+      "exportedPath": "analisi/analisi-1/lista-teoremi.html",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250403160516.png": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 3855,
+      "exportedPath": "lib/media/pasted-image-20250403160516.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250403171456.png": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 16244,
+      "exportedPath": "lib/media/pasted-image-20250403171456.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250403171531.png": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 7250,
+      "exportedPath": "lib/media/pasted-image-20250403171531.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250407100703.png": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 7344,
+      "exportedPath": "lib/media/pasted-image-20250407100703.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1744023532879,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1744023532879,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1744023532879,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1744023532879,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1744023532879,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1744023532879,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1744023532879,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1744023532879,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1744023532879,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1744023532879,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1744023532879,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1744023532879,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1744023532879,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1744023532879,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1744023532879,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1744020106259,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1744023532879,
+      "sourceSize": 53107,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1744023532879,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1744023532879,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1744023532879,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1744023532879,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1744023532879,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1744023532879,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1744023532879,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1744023532879,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1744023532879,
+      "sourceSize": 6353,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1744023532879,
+      "sourceSize": 137466,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1744023532879,
+      "sourceSize": 279,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1744023532879,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}

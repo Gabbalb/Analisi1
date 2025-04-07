@@ -1,0 +1,333 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[UNIBS]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>UNIBS</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 07 Apr 2025 10:58:53 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 07 Apr 2025 10:58:52 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Maggiorante]]></title><description><![CDATA[ 
+ <br>Il Maggiorante di A è l'insieme L tale che:<br>
+Il Minorante di A è l'insieme l tale che<br>
+  L'insieme A è Limitato superiormente se ammette maggioranti<br>
+inferiormente se ammette minoranti<br>
+Limitato se ammette entrambe]]></description><link>analisi\analisi-1\1_estremi\maggiorante.html</link><guid isPermaLink="false">Analisi/Analisi 1/1_Estremi/Maggiorante.md</guid><pubDate>Thu, 03 Apr 2025 09:03:30 GMT</pubDate></item><item><title><![CDATA[Massimo]]></title><description><![CDATA[ 
+ ]]></description><link>analisi\analisi-1\1_estremi\massimo.html</link><guid isPermaLink="false">Analisi/Analisi 1/1_Estremi/Massimo.md</guid><pubDate>Thu, 03 Apr 2025 09:23:58 GMT</pubDate></item><item><title><![CDATA[Massimo e Minimo]]></title><description><![CDATA[ 
+ <br>sia A un insieme definiamo Minimo m <br><br>e Massimo M<br>
+Massimo e minimo se esistono sono unici, se per assurdo prendiamo 2 massimi:<br>]]></description><link>analisi\analisi-1\1_estremi\massimo-e-minimo.html</link><guid isPermaLink="false">Analisi/Analisi 1/1_Estremi/Massimo e Minimo.md</guid><pubDate>Thu, 03 Apr 2025 08:59:49 GMT</pubDate></item><item><title><![CDATA[Teorema di esistenza dell'estremo superiore]]></title><description><![CDATA[ 
+ <br>Hp<br>
+A è un insieme limitato non vuoto in  <br>
+Ts<br>
+ il minimo dei maggioranti di A<br>Dim<br><br>allora per Assioma di completezza<br>
+quindi  quindi è <a data-href="Maggiorante" href="analisi\analisi-1\1_estremi\maggiorante.html" class="internal-link" target="_self" rel="noopener nofollow">Maggiorante</a><br>
+e  quindi è <a data-tooltip-position="top" aria-label="" rel="noopener nofollow" class="external-link" href="" target="_blank">minimo</a> dei maggiornati]]></description><link>analisi\analisi-1\1_estremi\teorema-di-esistenza-dell'estremo-superiore.html</link><guid isPermaLink="false">Analisi/Analisi 1/1_Estremi/Teorema di esistenza dell'estremo superiore.md</guid><pubDate>Thu, 03 Apr 2025 14:06:16 GMT</pubDate></item><item><title><![CDATA[Limite di successione]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>analisi\analisi-1\2_successioni\limiti\limite-di-successione.html</link><guid isPermaLink="false">Analisi/Analisi 1/2_Successioni/Limiti/Limite di successione.md</guid><pubDate>Thu, 03 Apr 2025 14:56:52 GMT</pubDate></item><item><title><![CDATA[Teorema dei Carbinieri]]></title><description><![CDATA[ 
+ <br>Quote
+"Si considerino le successioni<br>
+ se 
+<br><br><br>allora definendo  per def di <a data-href="Limite di successione" href="analisi\analisi-1\2_successioni\limiti\limite-di-successione.html" class="internal-link" target="_self" rel="noopener nofollow">Limite di successione</a><br>
+otteniamo, considerando l'ipotesi di  <br><br>allora <br><br>allora   #]]></description><link>analisi\analisi-1\2_successioni\limiti\teorema-dei-carbinieri.html</link><guid isPermaLink="false">Analisi/Analisi 1/2_Successioni/Limiti/Teorema dei Carbinieri.md</guid><pubDate>Thu, 03 Apr 2025 14:52:37 GMT</pubDate></item><item><title><![CDATA[Teorema Del Limite del prodotto di una successione limitata per una sua infinitesima]]></title><description><![CDATA[ 
+ <br>Quote
+se  (quindi a limitata e b infinitesima) allora 
+<br><br>Considero <br>
+con  come estremo superiore essendo an limitata<br>per proprietà valore assoluto <br><br>ma <br>
+quindi per <a data-href="Teorema dei Carbinieri" href="analisi\analisi-1\2_successioni\limiti\teorema-dei-carbinieri.html" class="internal-link" target="_self" rel="noopener nofollow">Teorema dei Carbinieri</a> allora anche ]]></description><link>analisi\analisi-1\2_successioni\limiti\teorema-del-limite-del-prodotto-di-una-successione-limitata-per-una-sua-infinitesima.html</link><guid isPermaLink="false">Analisi/Analisi 1/2_Successioni/Limiti/Teorema Del Limite del prodotto di una successione limitata per una sua infinitesima.md</guid><pubDate>Thu, 03 Apr 2025 13:15:59 GMT</pubDate></item><item><title><![CDATA[Teorema della permanenza del segno]]></title><description><![CDATA[ 
+ <br>Quote
+se , esiste un numero  tale che 
+<br><br>come ip usiamo la definizione di <a data-href="Limite di successione" href="analisi\analisi-1\2_successioni\limiti\limite-di-successione.html" class="internal-link" target="_self" rel="noopener nofollow">Limite di successione</a><br><br>e per ipotesi  quindi possiamo prendere come <br>quindi <br>
+quindi svolgendo la disequazione abbiamo che <br>
+quindi<br>
+ cvd #<br><br>Vale anche per il viceversa e anche se ]]></description><link>analisi\analisi-1\2_successioni\limiti\teorema-della-permanenza-del-segno.html</link><guid isPermaLink="false">Analisi/Analisi 1/2_Successioni/Limiti/Teorema della permanenza del segno.md</guid><pubDate>Thu, 03 Apr 2025 14:52:37 GMT</pubDate></item><item><title><![CDATA[Teorema ogni successione convergente è limitata]]></title><description><![CDATA[ 
+ <br>Quote
+Ogni successione convergente è limitata
+<br>Dim<br>per ipotesi sappiamo che  è convergente e che <br><br>per definizione di <a data-href="Limite di successione" href="analisi\analisi-1\2_successioni\limiti\limite-di-successione.html" class="internal-link" target="_self" rel="noopener nofollow">Limite di successione</a><br>
+quindi posso porre <br>
+ora studio quindi la successione <br><br>quindi posso trovare un M esattamente prima di ]]></description><link>analisi\analisi-1\2_successioni\limiti\teorema-ogni-successione-convergente-è-limitata.html</link><guid isPermaLink="false">Analisi/Analisi 1/2_Successioni/Limiti/Teorema ogni successione convergente è limitata.md</guid><pubDate>Thu, 03 Apr 2025 14:52:37 GMT</pubDate></item><item><title><![CDATA[Teorema Unicità Limite]]></title><description><![CDATA[ 
+ <br>Quote
+"Se la successione è limitata allora il <a data-href="Limite di successione" href="analisi\analisi-1\2_successioni\limiti\limite-di-successione.html" class="internal-link" target="_self" rel="noopener nofollow">Limite di successione</a> è unico"
+<br>Dim<br>Per assurdo supponiamo che<br>
+allora esiste un  &gt; 0 tale che<br>
+<br>
+<br>se quindi prendo   che è sicuramente &lt; di zero<br>
+e pongo  =  per far si che valgano entrambe<br>allora ma per disuguaglianza triangolare<br>
+che è <br>esce quindi che <br>
+che è assurdo! #]]></description><link>analisi\analisi-1\2_successioni\limiti\teorema-unicità-limite.html</link><guid isPermaLink="false">Analisi/Analisi 1/2_Successioni/Limiti/Teorema Unicità Limite.md</guid><pubDate>Thu, 03 Apr 2025 14:52:37 GMT</pubDate></item><item><title><![CDATA[Criterio del rapporto per le successioni]]></title><description><![CDATA[ 
+ <br>Quote
+Sia  una successione a termini positivi<br>
+Sia <br>
+Se  , allora la successione  converge a zero, se , allora la successione  diverge a 
+<br>il caso a = 1 non è contemplato nel eneunciato]]></description><link>analisi\analisi-1\2_successioni\successioni-monotone\criterio-del-rapporto-per-le-successioni.html</link><guid isPermaLink="false">Analisi/Analisi 1/2_Successioni/Successioni Monotone/Criterio del rapporto per le successioni.md</guid><pubDate>Thu, 03 Apr 2025 14:25:03 GMT</pubDate></item><item><title><![CDATA[Successione Monotona]]></title><description><![CDATA[ 
+ <br><br>Una successione è detta monotona se si verifica una delle seguenti condizioni<br><br>Una successione si dice constante se <br>
+con  e vengono cosiderate sia  che ]]></description><link>analisi\analisi-1\2_successioni\successioni-monotone\successione-monotona.html</link><guid isPermaLink="false">Analisi/Analisi 1/2_Successioni/Successioni Monotone/Successione Monotona.md</guid><pubDate>Thu, 03 Apr 2025 13:58:06 GMT</pubDate></item><item><title><![CDATA[Teorema sulle successioni monotone]]></title><description><![CDATA[ 
+ <br>Quote
+Ogni <a data-href="Successione Monotona" href="analisi\analisi-1\2_successioni\successioni-monotone\successione-monotona.html" class="internal-link" target="_self" rel="noopener nofollow">Successione Monotona</a> ammette <a data-href="Limite di successione" href="analisi\analisi-1\2_successioni\limiti\limite-di-successione.html" class="internal-link" target="_self" rel="noopener nofollow">Limite di successione</a>, in particolare ogni successione monotona e limitata ammette limite finito
+<br><br><br>Sia ad esempio <br>
+allora poniamo  per il <a data-href="Teorema di esistenza dell'estremo superiore" href="analisi\analisi-1\1_estremi\teorema-di-esistenza-dell'estremo-superiore.html" class="internal-link" target="_self" rel="noopener nofollow">Teorema di esistenza dell'estremo superiore</a> <br>Allora, per le proprietà dell'estremo superiore (essendo il minimo dei maggioranti)<br><br><img alt="Pasted image 20250403160516.png" src="lib\media\pasted-image-20250403160516.png"><br>
+(In poche parole c'è di mezzo qualcosa perforza tra il maggiorante e la successione)<br>Ma sappiamo anche che  è monotona crescente, quindi   e quindi possiamo riscrivere la formula come<br><br>quindi per definizione di <a data-href="Limite di successione" href="analisi\analisi-1\2_successioni\limiti\limite-di-successione.html" class="internal-link" target="_self" rel="noopener nofollow">Limite di successione</a><br><br><br>Sia ora  crescente e non limitata.<br>
+Fissiamo  , allora <br>
+Dato che  è crescente, <br><br>come volevasi dimostrare.]]></description><link>analisi\analisi-1\2_successioni\successioni-monotone\teorema-sulle-successioni-monotone.html</link><guid isPermaLink="false">Analisi/Analisi 1/2_Successioni/Successioni Monotone/Teorema sulle successioni monotone.md</guid><pubDate>Thu, 03 Apr 2025 14:52:37 GMT</pubDate><enclosure url="lib\media\pasted-image-20250403160516.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20250403160516.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Teorema di Bolzano-Weierstrass]]></title><description><![CDATA[ 
+ <br>Quote
+sia  una successione limitaia, allora esiste almeno una sua estratta convergente
+]]></description><link>analisi\analisi-1\2_successioni\teorema-di-bolzano-weierstrass.html</link><guid isPermaLink="false">Analisi/Analisi 1/2_Successioni/Teorema di Bolzano-Weierstrass.md</guid><pubDate>Thu, 03 Apr 2025 16:30:24 GMT</pubDate></item><item><title><![CDATA[Funzione Continua]]></title><description><![CDATA[ 
+ <br>Quote
+Una funzione  è continua in un punto  se 
+
+<br>"Li valore del limite è uguale al valore che si ottiene calcolando la funzione nel punto."<br><br><br>quando  <img alt="Pasted image 20250403171456.png" src="lib\media\pasted-image-20250403171456.png"><br><br><br><img alt="Pasted image 20250403171531.png" src="lib\media\pasted-image-20250403171531.png"><br><br><br>]]></description><link>analisi\analisi-1\3_funzioni\funzioni-continue\funzione-continua.html</link><guid isPermaLink="false">Analisi/Analisi 1/3_Funzioni/Funzioni continue/Funzione Continua.md</guid><pubDate>Thu, 03 Apr 2025 15:15:33 GMT</pubDate><enclosure url="lib\media\pasted-image-20250403171456.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20250403171456.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Teorema dell'esistenza degli zeri]]></title><description><![CDATA[ 
+ <br>Quote
+Sia  una <a data-href="Funzione Continua" href="analisi\analisi-1\3_funzioni\funzioni-continue\funzione-continua.html" class="internal-link" target="_self" rel="noopener nofollow">Funzione Continua</a> in <br>
+se 
+<br>(ovviamente vale anche il viceversa)<br><br><br>Per ipotesi  è continua in <br>
+e <br>considero il punto intermedio <br>
+se  la dimostrazione è completata altrimenti guardo il segno di  , se  cerco nell'intervallo , altrimenti nell'intervallo <br>ridefiniamo a seconda dei casi   e si cominciamo, ottenendo quindi 3 successioni come <br><br>e<br><br> e se per qualche   abbiamo trovato una radice e ci fermiamo<br><br>ci sarebbe il metodo costruttivo ma non ho voglia, basta uno :))]]></description><link>analisi\analisi-1\3_funzioni\funzioni-continue\teorema-dell'esistenza-degli-zeri.html</link><guid isPermaLink="false">Analisi/Analisi 1/3_Funzioni/Funzioni continue/Teorema dell'esistenza degli zeri.md</guid><pubDate>Thu, 03 Apr 2025 16:00:26 GMT</pubDate></item><item><title><![CDATA[Teorema dell'esistenza dei valori intermedi]]></title><description><![CDATA[ 
+ <br>Quote
+Una <a data-href="Funzione Continua" href="analisi\analisi-1\3_funzioni\funzioni-continue\funzione-continua.html" class="internal-link" target="_self" rel="noopener nofollow">Funzione Continua</a> in  possiede tutti i valori compresi fra
+<br><br>Consideriamo il caso in cui <br>
+Dobbiamo provare che <br>se  possiamo prendere <br>
+analogamente se  possiamo prendere  ed è dimostrato per quei 2 punti.<br>se  cosideriamo invece la funzione<br><br>e calcolata in <br><br><br>e applicando il <a data-href="Teorema dell'esistenza degli zeri" href="analisi\analisi-1\3_funzioni\funzioni-continue\teorema-dell'esistenza-degli-zeri.html" class="internal-link" target="_self" rel="noopener nofollow">Teorema dell'esistenza degli zeri</a> alla funzione  essendo i segni discordi <br><br>come volevasi dimostrare #.<br><br>Quote
+Una Funzione in un intervallo  ammette tutti i valori compresi tra massimo e minimo. (grazie al <a data-href="Teorema di Weierstrass" href="analisi\analisi-1\3_funzioni\funzioni-continue\teorema-di-weierstrass.html" class="internal-link" target="_self" rel="noopener nofollow">Teorema di Weierstrass</a>)
+]]></description><link>analisi\analisi-1\3_funzioni\funzioni-continue\teorema-dell'esistenza-dei-valori-intermedi.html</link><guid isPermaLink="false">Analisi/Analisi 1/3_Funzioni/Funzioni continue/Teorema dell'esistenza dei valori intermedi.md</guid><pubDate>Fri, 04 Apr 2025 08:20:02 GMT</pubDate></item><item><title><![CDATA[Teorema della permanenza del segno]]></title><description><![CDATA[ 
+ <br>Quote
+Sia  una funzione definita in un intorno di  e sia <a data-href="Funzione Continua" href="analisi\analisi-1\3_funzioni\funzioni-continue\funzione-continua.html" class="internal-link" target="_self" rel="noopener nofollow">Funzione Continua</a> in , se  esiste un numero  con la proprietà che 
+<br>Corollario (viceversa)<br>
+se  è continua in  e  allora   ]]></description><link>analisi\analisi-1\3_funzioni\funzioni-continue\teorema-della-permanenza-del-segno.html</link><guid isPermaLink="false">Analisi/Analisi 1/3_Funzioni/Funzioni continue/Teorema della permanenza del segno.md</guid><pubDate>Thu, 03 Apr 2025 16:00:45 GMT</pubDate></item><item><title><![CDATA[Teorema di Weierstrass]]></title><description><![CDATA[ 
+ <br>Quote
+Sia  una <a data-href="Funzione Continua" href="analisi\analisi-1\3_funzioni\funzioni-continue\funzione-continua.html" class="internal-link" target="_self" rel="noopener nofollow">Funzione Continua</a> in un intervallo chiuso e limitato <br>
+Allora  assume Minimo e Massimo in 
+<br><br>essendo per ipotesi continua in un intervallo chiuso e limitato poniamo<br><br>Verifichiamo ora che <br><br>se  per le proprietà dell' <a data-href="Teorema di esistenza dell'estremo superiore" href="analisi\analisi-1\1_estremi\teorema-di-esistenza-dell'estremo-superiore.html" class="internal-link" target="_self" rel="noopener nofollow">Teorema di esistenza dell'estremo superiore</a> <br>
+e allora  <br>se invece , sempre per proprietà del <a data-href="Teorema di esistenza dell'estremo superiore" href="analisi\analisi-1\1_estremi\teorema-di-esistenza-dell'estremo-superiore.html" class="internal-link" target="_self" rel="noopener nofollow">Teorema di esistenza dell'estremo superiore</a><br>
+ <br>
+Quindi per il <a data-href="Teorema dei Carbinieri" href="analisi\analisi-1\2_successioni\limiti\teorema-dei-carbinieri.html" class="internal-link" target="_self" rel="noopener nofollow">Teorema dei Carbinieri</a> <br><br>ora, per il <a data-href="Teorema di Bolzano-Weierstrass" href="analisi\analisi-1\2_successioni\teorema-di-bolzano-weierstrass.html" class="internal-link" target="_self" rel="noopener nofollow">Teorema di Bolzano-Weierstrass</a> esiste un estratta convergente  ad un punto <br><br>Ma poichè la funzione è continua (per Ipotesi)<br><br>allora <br><br>quindi abbiamo dimostrato che <br>
+quindi M è massimo perchè <br><br>come volevasi dimostrare #<br><br>La funzione è limitata dal massimo e minimo, cioè<br>]]></description><link>analisi\analisi-1\3_funzioni\funzioni-continue\teorema-di-weierstrass.html</link><guid isPermaLink="false">Analisi/Analisi 1/3_Funzioni/Funzioni continue/Teorema di Weierstrass.md</guid><pubDate>Fri, 04 Apr 2025 08:17:27 GMT</pubDate></item><item><title><![CDATA[Limite di Funzione]]></title><description><![CDATA[ 
+ <br>Quote
+
+<br>]]></description><link>analisi\analisi-1\3_funzioni\limiti-di-funzione\limite-di-funzione.html</link><guid isPermaLink="false">Analisi/Analisi 1/3_Funzioni/Limiti di Funzione/Limite di Funzione.md</guid><pubDate>Thu, 03 Apr 2025 15:04:07 GMT</pubDate></item><item><title><![CDATA[Teorema del legame tra limiti di funzione e limiti di successione]]></title><description><![CDATA[ 
+ <br>Quote
+Le Definizioni di <a data-href="Limite di successione" href="analisi\analisi-1\2_successioni\limiti\limite-di-successione.html" class="internal-link" target="_self" rel="noopener nofollow">Limite di successione</a> e <a data-href="Limite di Funzione" href="analisi\analisi-1\3_funzioni\limiti-di-funzione\limite-di-funzione.html" class="internal-link" target="_self" rel="noopener nofollow">Limite di Funzione</a> sono equivalenti
+]]></description><link>analisi\analisi-1\3_funzioni\limiti-di-funzione\teorema-del-legame-tra-limiti-di-funzione-e-limiti-di-successione.html</link><guid isPermaLink="false">Analisi/Analisi 1/3_Funzioni/Limiti di Funzione/Teorema del legame tra limiti di funzione e limiti di successione.md</guid><pubDate>Thu, 03 Apr 2025 15:02:46 GMT</pubDate></item><item><title><![CDATA[Funzione]]></title><description><![CDATA[ 
+ <br>Quote
+Dati A e B 2 insiemi di numeri in , una Funzione a A in B è una legge che associa ad ogni elemento di A uno e un solo elemento di B tale che:
+
+con A è in DOMINIO e B il CODOMINIO
+<br>si usa la notazione  e si dice <br>
+<br>Suriettiva se 
+<br>Iniettiva se 
+<br>Biunivoca se è entrambe
+<br>se è biunivoca ammette Inversa<br>
+<br>f si dice monotona se<br>]]></description><link>analisi\analisi-1\3_funzioni\funzione.html</link><guid isPermaLink="false">Analisi/Analisi 1/3_Funzioni/Funzione.md</guid><pubDate>Thu, 03 Apr 2025 14:51:39 GMT</pubDate></item><item><title><![CDATA[Criterio di Caratterizzazione delle funzioni costanti in un intervallo]]></title><description><![CDATA[ 
+ <br>Quote
+Una Funzione è costante in un intervallo   <a data-href="Derivabile" href="analisi\analisi-1\4_derivata\derivabile.html" class="internal-link" target="_self" rel="noopener nofollow">Derivabile</a> in  e la derivata è ovunque nulla.
+<br><br> per ipotesi  costante in  quindi  per il rapporto incrementale #<br> Se  è tale che  allora la funzione è costante.<br>Applico il <a data-href="Teorema di Lagrange" href="analisi\analisi-1\4_derivata\teorema-di-lagrange.html" class="internal-link" target="_self" rel="noopener nofollow">Teorema di Lagrange</a> nell'intervallo   <br><br>quindi  allora   è costante. #]]></description><link>analisi\analisi-1\4_derivata\criterio-di-caratterizzazione-delle-funzioni-costanti-in-un-intervallo.html</link><guid isPermaLink="false">Analisi/Analisi 1/4_Derivata/Criterio di Caratterizzazione delle funzioni costanti in un intervallo.md</guid><pubDate>Fri, 04 Apr 2025 14:09:42 GMT</pubDate></item><item><title><![CDATA[Criterio di Convessità]]></title><description><![CDATA[ 
+ <br>Definizione
+Sia  una funzione <a data-href="Derivabile" href="analisi\analisi-1\4_derivata\derivabile.html" class="internal-link" target="_self" rel="noopener nofollow">Derivabile</a> in  e che ammette derivata seconda in . Allora:
+ è convessa in    
+<br>Osservazione
+ per il criterio di monotonia 
+]]></description><link>analisi\analisi-1\4_derivata\criterio-di-convessità.html</link><guid isPermaLink="false">Analisi/Analisi 1/4_Derivata/Criterio di Convessità.md</guid><pubDate>Fri, 04 Apr 2025 14:09:51 GMT</pubDate></item><item><title><![CDATA[Criterio di Monotonia]]></title><description><![CDATA[ 
+ <br>Quote
+Sia  una funzione continua in  e <a data-href="Derivabile" href="analisi\analisi-1\4_derivata\derivabile.html" class="internal-link" target="_self" rel="noopener nofollow">Derivabile</a> in  allora:<br>
+ 
+ 
+<br><br>Dimostriamo la prima<br>
+ Supponiamo che , dobbiamo dimostrare che se   risulta che<br>
+ <br>Applicando il <a data-href="Teorema di Lagrange" href="analisi\analisi-1\4_derivata\teorema-di-lagrange.html" class="internal-link" target="_self" rel="noopener nofollow">Teorema di Lagrange</a> nell'intervallo  <br><br> dato che  (per ipotesi) e  risulta<br>
+ e quindi  crescente<br> Supponiamo ora  crescente in  e consideriamo <br>
+allora  per ipotesi e quindi <br><br>passando al limite<br>
+ #.]]></description><link>analisi\analisi-1\4_derivata\criterio-di-monotonia.html</link><guid isPermaLink="false">Analisi/Analisi 1/4_Derivata/Criterio di Monotonia.md</guid><pubDate>Fri, 04 Apr 2025 14:13:53 GMT</pubDate></item><item><title><![CDATA[Derivabile]]></title><description><![CDATA[ 
+ <br>Quote
+Sia  una funzione definita in  e sia <br>
+Si dice che la funzione è derivabile nel punto , se esiste finito il limite del rapporto incrementale 
+
+tale è definita la Derivata di f<br>
+
+]]></description><link>analisi\analisi-1\4_derivata\derivabile.html</link><guid isPermaLink="false">Analisi/Analisi 1/4_Derivata/Derivabile.md</guid><pubDate>Fri, 04 Apr 2025 09:27:50 GMT</pubDate></item><item><title><![CDATA[Teorema dell'Hopital]]></title><description><![CDATA[ 
+ <br>Quote
+Siano  e  funzioni <a data-href="Derivabile" href="analisi\analisi-1\4_derivata\derivabile.html" class="internal-link" target="_self" rel="noopener nofollow">Derivabile</a> in un interno di  tali che 
+
+<br>allora<br><br>Tip
+Vale anche per forme 
+<br><br>Dimostriamo il teorema nel caso particolare, ma significativo, in cui  e  siano funzioni derivabili in  con derivata continua  <br>Dato che  e  sono derivabili in  allora sono anche continue in quel punto. per ipotesi: (def di continua) <br><br>e anche continuità <br>
+allora <br><br>#.]]></description><link>analisi\analisi-1\4_derivata\teorema-dell'hopital.html</link><guid isPermaLink="false">Analisi/Analisi 1/4_Derivata/Teorema dell'Hopital.md</guid><pubDate>Fri, 04 Apr 2025 14:14:08 GMT</pubDate></item><item><title><![CDATA[Teorema della Derivabilità e continuità]]></title><description><![CDATA[ 
+ <br>Quote
+Ogni funzione <a data-href="Derivabile" href="analisi\analisi-1\4_derivata\derivabile.html" class="internal-link" target="_self" rel="noopener nofollow">Derivabile</a> in  è continua in  
+<br><br> se:<br><br>se  e  equivalentemente <br><br>quindi <br><br>Quindi ogni funzione derivabile in  è continua in  NON viceversa.]]></description><link>analisi\analisi-1\4_derivata\teorema-della-derivabilità-e-continuità.html</link><guid isPermaLink="false">Analisi/Analisi 1/4_Derivata/Teorema della Derivabilità e continuità.md</guid><pubDate>Fri, 04 Apr 2025 14:10:36 GMT</pubDate></item><item><title><![CDATA[Teorema derivazione funzioni inverse]]></title><description><![CDATA[ 
+ <br>Quote
+sia  una funzione continua e strettamente crescente (o decrescente) in 
+Se  è <a data-href="Derivabile" href="analisi\analisi-1\4_derivata\derivabile.html" class="internal-link" target="_self" rel="noopener nofollow">Derivabile</a> in un punto  e se  allora anche  è derivabile nel punto  e la derivata vale 
+
+]]></description><link>analisi\analisi-1\4_derivata\teorema-derivazione-funzioni-inverse.html</link><guid isPermaLink="false">Analisi/Analisi 1/4_Derivata/Teorema derivazione funzioni inverse.md</guid><pubDate>Fri, 04 Apr 2025 14:10:55 GMT</pubDate></item><item><title><![CDATA[Teorema di derivazione delle funzioni composte]]></title><description><![CDATA[ 
+ <br>Quote
+Se  è <a data-href="Derivabile" href="analisi\analisi-1\4_derivata\derivabile.html" class="internal-link" target="_self" rel="noopener nofollow">Derivabile</a> in  e se  è una funzione derivabile nel punto , allora la funzione composta  è derivabile in 
+e si ha
+
+<br><br>considerando il rapporto incrementale:<br><br>quindi ora studio <br>]]></description><link>analisi\analisi-1\4_derivata\teorema-di-derivazione-delle-funzioni-composte.html</link><guid isPermaLink="false">Analisi/Analisi 1/4_Derivata/Teorema di derivazione delle funzioni composte.md</guid><pubDate>Fri, 04 Apr 2025 14:11:06 GMT</pubDate></item><item><title><![CDATA[Teorema di Fermat]]></title><description><![CDATA[ 
+ <br>Quote
+Sia  una funzione definita in  e sia  un punto di massimo o minimo relativo in <br>
+Se  è <a data-href="Derivabile" href="analisi\analisi-1\4_derivata\derivabile.html" class="internal-link" target="_self" rel="noopener nofollow">Derivabile</a> in , allora risulta
+
+<br><br>Supponiamo che   sia un punto di massimo relativo , quindi (per definizione) <br><br>ora valuto il rapporto incrementale<br><br>il numeratore è sempre negativo dato (1)<br>
+e risulta che <br><br> e passando al limite per <br><br>essendo derivabile per ipotesi il limiti devono coincidere, quindi,  #<br>Osservazione
+Conseguenza del teorema di Fermat è che l'annullamento della derivata prima è condizione necessaria affinche  sia un punto di minimo o massimo relativo
+]]></description><link>analisi\analisi-1\4_derivata\teorema-di-fermat.html</link><guid isPermaLink="false">Analisi/Analisi 1/4_Derivata/Teorema di Fermat.md</guid><pubDate>Fri, 04 Apr 2025 14:22:58 GMT</pubDate></item><item><title><![CDATA[Teorema di Lagrange]]></title><description><![CDATA[ 
+ <br>Quote
+Sia  una funzione continua in  e <a data-href="Derivabile" href="analisi\analisi-1\4_derivata\derivabile.html" class="internal-link" target="_self" rel="noopener nofollow">Derivabile</a> in . Esiste un punto  per cui 
+
+<br><br>Consideriamo al funzione ausiliaria <br><br>in <br><br>in <br><br>allora <br>
+posso quindi usare <a data-href="Teorema di Rolle" href="analisi\analisi-1\4_derivata\teorema-di-rolle.html" class="internal-link" target="_self" rel="noopener nofollow">Teorema di Rolle</a><br>quindi  e <br>in  =&gt; <br><br>.#<br>
+]]></description><link>analisi\analisi-1\4_derivata\teorema-di-lagrange.html</link><guid isPermaLink="false">Analisi/Analisi 1/4_Derivata/Teorema di Lagrange.md</guid><pubDate>Fri, 04 Apr 2025 14:29:17 GMT</pubDate></item><item><title><![CDATA[Teorema di Rolle]]></title><description><![CDATA[ 
+ <br>Quote
+Sia  una funzione continua in  e <a data-href="Derivabile" href="analisi\analisi-1\4_derivata\derivabile.html" class="internal-link" target="_self" rel="noopener nofollow">Derivabile</a> in 
+se  esiste un punto  per cui 
+<br><br> è continua in , quindi per il <a data-href="Teorema di Weierstrass" href="analisi\analisi-1\3_funzioni\funzioni-continue\teorema-di-weierstrass.html" class="internal-link" target="_self" rel="noopener nofollow">Teorema di Weierstrass</a>,  ammette massimo e minimo in , cioè <br><br>se almeno uno degli  è interno ad , allora per il <a data-href="Teorema di Fermat" href="analisi\analisi-1\4_derivata\teorema-di-fermat.html" class="internal-link" target="_self" rel="noopener nofollow">Teorema di Fermat</a> la derivata si annulla<br>manca il caso in cui sia  che  sono esterni all'insieme di definizione, quindi  quindi dall' ipotesi (1) possiamo dire che<br><br>ma dato che per ipotesi <br>significa che  è costante e quindi la sua derivata è zero #  ]]></description><link>analisi\analisi-1\4_derivata\teorema-di-rolle.html</link><guid isPermaLink="false">Analisi/Analisi 1/4_Derivata/Teorema di Rolle.md</guid><pubDate>Fri, 04 Apr 2025 14:11:45 GMT</pubDate></item><item><title><![CDATA[Teorema successioni definite per ricorrenza]]></title><description><![CDATA[ 
+ <br>Quote
+Sia  una funzione <a data-href="Derivabile" href="analisi\analisi-1\4_derivata\derivabile.html" class="internal-link" target="_self" rel="noopener nofollow">Derivabile</a> in , con derivata continua e sia convessa in tale intervallo. Supponiamo che  e  e che  per ogni  
+Allora la successione definita per ricorrenza 
+
+converge decrescendo all'unica soluzione  dell'equazione 
+]]></description><link>analisi\analisi-1\4_derivata\teorema-successioni-definite-per-ricorrenza.html</link><guid isPermaLink="false">Analisi/Analisi 1/4_Derivata/Teorema successioni definite per ricorrenza.md</guid><pubDate>Fri, 04 Apr 2025 14:11:54 GMT</pubDate></item><item><title><![CDATA[Formula]]></title><description><![CDATA[ 
+ <br><br>La formula di Taylor con  si dice formula di mac laurin <br>]]></description><link>analisi\analisi-1\5_taylor\formula.html</link><guid isPermaLink="false">Analisi/Analisi 1/5_Taylor/Formula.md</guid><pubDate>Sat, 05 Apr 2025 09:21:34 GMT</pubDate></item><item><title><![CDATA[o-piccolo]]></title><description><![CDATA[ 
+ <br>Quote
+Siano  e  funzioni definite in un intorno di  (con l'eventuale eccezione di ), non nulle per .<br>
+Si dice che  è per  un infinitesimo di ordine superiore di  oppure equivalentemente  è un  di  e si scrive
+
+se  e<br>
+
+]]></description><link>analisi\analisi-1\5_taylor\o-piccolo.html</link><guid isPermaLink="false">Analisi/Analisi 1/5_Taylor/o-piccolo.md</guid><pubDate>Sat, 05 Apr 2025 09:19:36 GMT</pubDate></item><item><title><![CDATA[Proprietà o-piccolo]]></title><description><![CDATA[ 
+ <br><br><br><br>quindi che <br>se poniamo  e <br>Per definizione di o-piccolo<br><br>allora anche <br><br><br><br> se per definizione se  e <br>
+allora anche  <br><br><br>se  allora  =  <br>
+per cui  per ]]></description><link>analisi\analisi-1\5_taylor\proprietà-o-piccolo.html</link><guid isPermaLink="false">Analisi/Analisi 1/5_Taylor/Proprietà o-piccolo.md</guid><pubDate>Mon, 07 Apr 2025 07:38:04 GMT</pubDate></item><item><title><![CDATA[Addittività dell'integrale rispetto all'Intervallo]]></title><description><![CDATA[ 
+ <br>Quote
+Se  sono tre punti in un intervallo dove la funzione  è integrabile, allora
+
+]]></description><link>analisi\analisi-1\6_integrali\addittività-dell'integrale-rispetto-all'intervallo.html</link><guid isPermaLink="false">Analisi/Analisi 1/6_Integrali/Addittività dell'integrale rispetto all'Intervallo.md</guid><pubDate>Mon, 07 Apr 2025 07:48:21 GMT</pubDate></item><item><title><![CDATA[Caratterizzazione primitive di una funzione in un intervallo]]></title><description><![CDATA[ 
+ <br>Quote
+se  e  sono 2 primitive di una stessa funzione  in un intervallo  esiste una costante  tale che<br>
+
+<br><br>Poniamo <br><br>Allora <br><br>E applicando <a data-href="Criterio di Caratterizzazione delle funzioni costanti in un intervallo" href="analisi\analisi-1\4_derivata\criterio-di-caratterizzazione-delle-funzioni-costanti-in-un-intervallo.html" class="internal-link" target="_self" rel="noopener nofollow">Criterio di Caratterizzazione delle funzioni costanti in un intervallo</a> (conseguenza del <a data-href="Teorema di Lagrange" href="analisi\analisi-1\4_derivata\teorema-di-lagrange.html" class="internal-link" target="_self" rel="noopener nofollow">Teorema di Lagrange</a>) che dice che una funzione è costante in un intervallo se la sua derivata è sempre nulla, possiamo dire che <br> è una funzione costante in  #]]></description><link>analisi\analisi-1\6_integrali\caratterizzazione-primitive-di-una-funzione-in-un-intervallo.html</link><guid isPermaLink="false">Analisi/Analisi 1/6_Integrali/Caratterizzazione primitive di una funzione in un intervallo.md</guid><pubDate>Mon, 07 Apr 2025 08:52:17 GMT</pubDate></item><item><title><![CDATA[Confronto fra gli integrali]]></title><description><![CDATA[ 
+ <br>Quote
+Se  e  sono funzioni integrabili in  e se <br>
+allora:
+
+]]></description><link>analisi\analisi-1\6_integrali\confronto-fra-gli-integrali.html</link><guid isPermaLink="false">Analisi/Analisi 1/6_Integrali/Confronto fra gli integrali.md</guid><pubDate>Mon, 07 Apr 2025 07:55:52 GMT</pubDate></item><item><title><![CDATA[Formula fondamentale del calcolo integrale]]></title><description><![CDATA[ 
+ <br>Quote
+Sia  una funzione in  e sia  una primitiva di , Allora:
+
+<br><br>Per ipotesi  è una primitiva della funzione <br>
+Ma per il <a data-href="Teorema fondamentale del calcolo integrale" href="analisi\analisi-1\6_integrali\teorema-fondamentale-del-calcolo-integrale.html" class="internal-link" target="_self" rel="noopener nofollow">Teorema fondamentale del calcolo integrale</a> anche <br><br>è una primitiva di <br>
+allora per la <a data-href="Caratterizzazione primitive di una funzione in un intervallo" href="analisi\analisi-1\6_integrali\caratterizzazione-primitive-di-una-funzione-in-un-intervallo.html" class="internal-link" target="_self" rel="noopener nofollow">Caratterizzazione primitive di una funzione in un intervallo</a>  e  differiscono per una costante<br><br>per <br>
+per <br>
+allora<br>
+ #.]]></description><link>analisi\analisi-1\6_integrali\formula-fondamentale-del-calcolo-integrale.html</link><guid isPermaLink="false">Analisi/Analisi 1/6_Integrali/Formula fondamentale del calcolo integrale.md</guid><pubDate>Mon, 07 Apr 2025 09:16:53 GMT</pubDate></item><item><title><![CDATA[Funzione integrale]]></title><description><![CDATA[ 
+ <br>Quote
+Data  una funzione continua in  definiamo:
+
+Funzione integrale
+]]></description><link>analisi\analisi-1\6_integrali\funzione-integrale.html</link><guid isPermaLink="false">Analisi/Analisi 1/6_Integrali/Funzione integrale.md</guid><pubDate>Mon, 07 Apr 2025 08:22:08 GMT</pubDate></item><item><title><![CDATA[Integrabilità delle funzioni continue]]></title><description><![CDATA[ 
+ <br>Quote
+Sia  una funzione continua in .<br>
+Allora  è integrabile scondo Reimann in .
+]]></description><link>analisi\analisi-1\6_integrali\integrabilità-delle-funzioni-continue.html</link><guid isPermaLink="false">Analisi/Analisi 1/6_Integrali/Integrabilità delle funzioni continue.md</guid><pubDate>Mon, 07 Apr 2025 07:57:26 GMT</pubDate></item><item><title><![CDATA[Integrale definito]]></title><description><![CDATA[ 
+ <br>Quote
+Se il valore tra le somme parziali superiori e quelle minori è unico allora si dice che  è Integrabile secondo Reimann in  e l'elemento si indica con 
+
+e si chiama Integrale definito di  in 
+]]></description><link>analisi\analisi-1\6_integrali\integrale-definito.html</link><guid isPermaLink="false">Analisi/Analisi 1/6_Integrali/Integrale definito.md</guid><pubDate>Mon, 07 Apr 2025 07:46:10 GMT</pubDate></item><item><title><![CDATA[Linearità dell'integrale]]></title><description><![CDATA[ 
+ <br>Quote
+Se  e  sono funzioni integrabili in , anche  è integrabile in .<br>
+Dato  numero reale, anche  è integrabile in 
+
+e
+
+]]></description><link>analisi\analisi-1\6_integrali\linearità-dell'integrale.html</link><guid isPermaLink="false">Analisi/Analisi 1/6_Integrali/Linearità dell'integrale.md</guid><pubDate>Mon, 07 Apr 2025 07:53:01 GMT</pubDate></item><item><title><![CDATA[Primitiva]]></title><description><![CDATA[ 
+ <br>Quote
+Una funzione  derivabile in  è una primitiva di  se  
+]]></description><link>analisi\analisi-1\6_integrali\primitiva.html</link><guid isPermaLink="false">Analisi/Analisi 1/6_Integrali/Primitiva.md</guid><pubDate>Mon, 07 Apr 2025 08:44:57 GMT</pubDate></item><item><title><![CDATA[Teorema della Media]]></title><description><![CDATA[ 
+ <br>Quote
+Se  è continua in un punto in , allora esiste un punto  tale che:
+
+<br><br> è una funzione continua in  per ipotesi.<br>
+Per il <a data-href="Teorema di Weierstrass" href="analisi\analisi-1\3_funzioni\funzioni-continue\teorema-di-weierstrass.html" class="internal-link" target="_self" rel="noopener nofollow">Teorema di Weierstrass</a>  assume massimo e minimo in , esistono cioè  e  tali che:<br><br>Consideriamo una partizione di poli <br>
+La più semplice possibile, cioè (un unico pezzo)<br><br>Le relative somme integrali inferiori sono quindi date da<br><br><img alt="Pasted image 20250407100703.png" src="lib\media\pasted-image-20250407100703.png"><br>L'<a data-href="Integrale definito" href="analisi\analisi-1\6_integrali\integrale-definito.html" class="internal-link" target="_self" rel="noopener nofollow">Integrale definito</a> è per definizione l'elemento di separazione delle somme integrali inferiori e delle serie integrali superiori (per qualsiasi partizione P), quindi, per definizione<br><br>che per (2) è equivalente dire che<br><br>quindi <br><br>se studiamo <br><br>
+possiamo dire che è un numero compreso tra  e  , massimo e minimo di , e per il <a data-href="Teorema dell'esistenza dei valori intermedi" href="analisi\analisi-1\3_funzioni\funzioni-continue\teorema-dell'esistenza-dei-valori-intermedi.html" class="internal-link" target="_self" rel="noopener nofollow">Teorema dell'esistenza dei valori intermedi</a><br>
+<br>
+.<br><br>cvd.]]></description><link>analisi\analisi-1\6_integrali\teorema-della-media.html</link><guid isPermaLink="false">Analisi/Analisi 1/6_Integrali/Teorema della Media.md</guid><pubDate>Mon, 07 Apr 2025 08:16:30 GMT</pubDate><enclosure url="lib\media\pasted-image-20250407100703.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20250407100703.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Teorema fondamentale del calcolo integrale]]></title><description><![CDATA[ 
+ <br>Quote
+Sia  una funzione continua nell'intervallo . la funzione integrale 
+
+è derivabile e la derivata vale
+
+<br><br>Per fare la <a data-href="Derivabile" href="analisi\analisi-1\4_derivata\derivabile.html" class="internal-link" target="_self" rel="noopener nofollow">Derivabile</a> occorre calcolare il limite del rapporto incrementale della funzione <br><br>con <br><br>consideriamo il numeratore <br><br>che è uguale per <a data-href="Addittività dell'integrale rispetto all'Intervallo" href="analisi\analisi-1\6_integrali\addittività-dell'integrale-rispetto-all'intervallo.html" class="internal-link" target="_self" rel="noopener nofollow">Addittività dell'integrale rispetto all'Intervallo</a> a<br><br>utilizziamo ora il <a data-href="Teorema della Media" href="analisi\analisi-1\6_integrali\teorema-della-media.html" class="internal-link" target="_self" rel="noopener nofollow">Teorema della Media</a> nell intervallo , infatti <br><br>Riprendendo il limite<br><br>e per il <a data-href="Teorema dei Carbinieri" href="analisi\analisi-1\2_successioni\limiti\teorema-dei-carbinieri.html" class="internal-link" target="_self" rel="noopener nofollow">Teorema dei Carbinieri</a> <br><br>allora <br>
+e dato che  è continua allora <br>
+cvd. #]]></description><link>analisi\analisi-1\6_integrali\teorema-fondamentale-del-calcolo-integrale.html</link><guid isPermaLink="false">Analisi/Analisi 1/6_Integrali/Teorema fondamentale del calcolo integrale.md</guid><pubDate>Mon, 07 Apr 2025 08:39:05 GMT</pubDate></item><item><title><![CDATA[Condizione necessaria di Convergenza]]></title><description><![CDATA[ 
+ <br>Quote
+Se la serie  è convergente, allora la successione  tende a zero per 
+<br><br>sia  la successione delle somme parziali e sia  la somma delle serie ()<br>Abbiamo che  (per definizione di somme parziali) <br>Allora<br>
+<br>
+allora  #]]></description><link>analisi\analisi-1\7_serie\condizione-necessaria-di-convergenza.html</link><guid isPermaLink="false">Analisi/Analisi 1/7_Serie/Condizione necessaria di Convergenza.md</guid><pubDate>Mon, 07 Apr 2025 09:33:33 GMT</pubDate></item><item><title><![CDATA[Serie]]></title><description><![CDATA[ 
+ <br>Quote
+
+è detta somma o serie per  che va da 1 a  di 
+<br>per definizione poniamo che <br><br>dove  è la successione delle somme parziali.<br>se per  di  esiste ed è un numero finito si dice che la serie è convergente<br>se è infinito allora la serie è divergente<br>se non esiste il limite si dice che è indeterminata<br>il carattere di una serie è la capacità di essere convergente, divergente o indeterminata]]></description><link>analisi\analisi-1\7_serie\serie.html</link><guid isPermaLink="false">Analisi/Analisi 1/7_Serie/Serie.md</guid><pubDate>Mon, 07 Apr 2025 09:26:53 GMT</pubDate></item><item><title><![CDATA[✅ Successioni]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>Definizione di limite
+<br>Unicità del limite (dim)
+<br>Teorema: Ogni successione convergente è limitata (dim) ✅ 2025-04-03
+<br><br>
+<br>Teorema Permanenza del segno (dim) ✅ 2025-04-03
+<br>Teorema Dei Carabinieri (dim) ✅ 2025-04-03
+<br>Teorema prodotto limitata per infinitesima (dim) ✅ 2025-04-03
+<br><br>
+<br>Definizione ✅ 2025-04-03
+<br>Teorema sulle successioni monotone (dim) ✅ 2025-04-03
+<br>Criterio del rapporto per le successioni ✅ 2025-04-03
+<br><br><br>
+<br>Definizione ✅ 2025-04-03
+<br><br>
+<br>Definizione ✅ 2025-04-03
+<br>Teorema legame limiti di successione e funzione ✅ 2025-04-03
+<br><br>
+<br>Definizione ✅ 2025-04-03
+<br>Discontinuità ✅ 2025-04-03
+<br>Teorema permanenza del segno (+ corollario) ✅ 2025-04-03
+<br>Teorema esistenza degli zeri (dim) ✅ 2025-04-03
+<br>Teorema Esistenza valori intermedi (dim) ✅ 2025-04-03
+<br>Teorema Weierstrass (dim) ✅ 2025-04-04
+<br><br>
+<br>Definizione ✅ 2025-04-04
+<br>Teorema Derivabilità - continuità (dim) ✅ 2025-04-04
+<br>Teorema di derivazione delle funzioni composte (dim) ✅ 2025-04-04
+<br>Teorema di derivazione delle funzioni inverse ✅ 2025-04-04
+<br>Teorema di Fermat (dim) ✅ 2025-04-04
+<br>Teorema di Rolle (dim) ✅ 2025-04-04
+<br>Teorema di Lagrange(dim) ✅ 2025-04-04
+<br>Criterio di monotonia (dim) ✅ 2025-04-04
+<br>Caratterizzazione delle funzioni costanti in un intervallo. (dim) ✅ 2025-04-04
+<br>Criterio di Convessità ✅ 2025-04-04
+<br>Metodo di Newton ✅ 2025-04-04
+<br>Teorema successioni definite per ricorrenza ✅ 2025-04-04
+<br>Teorema dell'Hopital (dim) ✅ 2025-04-04
+<br><br><br>
+<br>Formula ✅ 2025-04-04
+<br>Definizione "o-piccolo" ✅ 2025-04-05
+<br>Resto Peano ✅ 2025-04-05
+<br>Mac Laurin ✅ 2025-04-05
+<br>Proprietà o-piccolo ✅ 2025-04-05
+<br><br>
+<br>Definizione integrale definito ✅ 2025-04-07
+<br>Proprietà integrali ✅ 2025-04-07
+
+<br>Addittività ✅ 2025-04-07
+<br>Linearità ✅ 2025-04-07
+
+
+<br>Confronto tra integrali ✅ 2025-04-07
+<br>Integrabilità funzioni continue ✅ 2025-04-07
+<br>Teorema della Media (dim) ✅ 2025-04-07
+<br>Teorema fondamentale calcolo integrale (dim) ✅ 2025-04-07
+<br>Formula fondamentale calcolo integrale (dim) ✅ 2025-04-07
+<br>Caratterizzazione primitive in un intervallo (dim) ✅ 2025-04-07
+<br><br>
+<br>Definizione ✅ 2025-04-07
+<br>Condizione necessaria di convergenza
+<br>Teorema serie a termini non negativi (dim)
+<br><br>
+<br>Del rapporto
+<br>Della Radice
+<br>Confronto tra limiti
+<br>Serie Alternate
+<br>Criterio di Leibniz
+<br>Convergenza assoluta
+<br><br>
+<br>Criterio per stabilirle
+]]></description><link>analisi\analisi-1\lista-teoremi.html</link><guid isPermaLink="false">Analisi/Analisi 1/Lista Teoremi.md</guid><pubDate>Mon, 07 Apr 2025 09:27:10 GMT</pubDate></item></channel></rss>
